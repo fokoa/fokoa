@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fokoa My name is Kevin Jeff FOGANG FOKOA.
+- 👋 Hi, my name is Kevin Jeff FOGANG FOKOA.
 - 👀 I’m interested in Algorithms and Machine Learning (ML).
 - 🌱 I’m currently learning (Master Degree) in University of Yaoundé I (Cameroon). 
     I also take part in competitions and challenges which consists in solving the problems
