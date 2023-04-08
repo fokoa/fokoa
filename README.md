@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Kevin Jeff FOGANG FOKOA.
 - 👀 I’m interested in Machine Learning.
-- 🌱 Ccurrently a PhD student at University of Yaoundé I (Cameroon). 
+- 🌱 <!--- Currently a Master at University of Yaoundé I (Cameroon). ---> 
     I take part in competitions and challenges occasionally on the Zindi platform (https://zindi.africa/).
 
 <!---
